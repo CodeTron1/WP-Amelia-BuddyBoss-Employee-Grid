@@ -1,0 +1,68 @@
+/* AB Employee Grid and Carousel - Admin Styles v3.0.0 */
+.wrap h1 { 
+    margin-bottom: 20px; 
+    display: flex; 
+    align-items: center; 
+    gap: 10px;
+}
+.wrap h2 { 
+    margin-top: 30px; 
+    margin-bottom: 15px; 
+    color: #1d2327; 
+    border-bottom: 1px solid #dcdcde; 
+    padding-bottom: 8px; 
+}
+.form-table th { 
+    width: 250px; 
+    font-weight: 600; 
+}
+.form-table td input[type="number"] { 
+    width: 100px; 
+}
+.form-table .description {
+    font-size: 13px;
+    margin-top: 5px;
+    color: #666;
+}
+
+/* Tab styling */
+.abegc-settings-tabs .nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.abegc-tab-content {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.abegc-range-value {
+    font-weight: bold;
+    margin-left: 10px;
+    color: #0073aa;
+}
+
+/* Responsive */
+@media screen and (max-width: 782px) {
+    .form-table th, .form-table td { 
+        display: block; 
+        width: auto; 
+    }
+}
+
+/* Plugin dashboard styling */
+.button-large .dashicons {
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.wp-list-table input[readonly] {
+    background: #f9f9f9;
+    cursor: pointer;
+}
+
+.wp-list-table input[readonly]:hover {
+    background: #f0f0f0;
+}

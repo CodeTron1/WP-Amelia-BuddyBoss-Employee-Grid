@@ -1,0 +1,6 @@
+
+/* Local Swiper bundle placeholder/styles used by carousel */
+.abegc-swiper { position: relative; }
+.abegc-swiper .swiper-wrapper { display:flex; }
+.abegc-swiper .swiper-slide { flex: 0 0 auto; }
+.abegc-swiper .swiper-button-prev, .abegc-swiper .swiper-button-next { cursor: pointer; }

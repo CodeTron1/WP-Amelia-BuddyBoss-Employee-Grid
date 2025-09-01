@@ -1,0 +1,66 @@
+# AB Employee Grid and Carousel
+# Copyright (C) 2024 CodeTron
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: AB Employee Grid and Carousel 3.0.0\n"
+"Report-Msgid-Bugs-To: https://codetron.co.in\n"
+"POT-Creation-Date: 2024-08-30 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ab-employee-grid-carousel.php
+msgid "AB Employee Grid and Carousel"
+msgstr ""
+
+msgid "Employee Grids"
+msgstr ""
+
+msgid "Employee Carousels"  
+msgstr ""
+
+msgid "Employee Grid"
+msgstr ""
+
+msgid "Employee Carousel"
+msgstr ""
+
+msgid "Add New Grid"
+msgstr ""
+
+msgid "Add New Carousel"
+msgstr ""
+
+msgid "Global Settings"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Employee"
+msgstr ""
+
+msgid "Team Member"
+msgstr ""
+
+msgid "Full Image"
+msgstr ""
+
+msgid "Professional"
+msgstr ""
+
+msgid "Minimal"
+msgstr ""
+
+msgid "Settings saved successfully!"
+msgstr ""
+
+msgid "No employees found."
+msgstr ""
+
+msgid "Amelia plugin not found."
+msgstr ""
